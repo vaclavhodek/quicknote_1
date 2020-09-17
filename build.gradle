@@ -1,0 +1,24 @@
+buildscript {
+    ext.kotlin_version = "1.4.10"
+    repositories {
+        google()
+        jcenter()
+        maven { url "https://maven.localazy.com/repository/release/" }
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:4.2.0-alpha10'
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+        classpath "com.localazy:gradle:1.5.2"
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        jcenter()
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

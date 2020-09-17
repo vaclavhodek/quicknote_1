@@ -1,0 +1,7 @@
+[packages]
+com.localazy.quicknote = raa
+
+[localazy]
+allStringsUploaded = true
+showWelcomeMessage = false
+
