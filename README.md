@@ -14,6 +14,22 @@ Here's what I learned along the way.
 
 ---
 
+## How To Use
+
+1. Clone the repository.
+
+2. Open it in Android Studio (as of now, the **Canary** version is necessary because of Jetpack Compose)
+
+3. Run the app.
+
+---
+
+## Stay Tuned
+
+Eager to learn more about Android development? Follow me (<a href="https://twitter.com/vaclavhodek">@vaclavhodek</a>) and Localazy (<a href="https://twitter.com/localazy">@localazy</a>) on Twitter, or like <a href="https://www.facebook.com/localazy">Localazy on Facebook</a>.
+
+---
+
 ## The Series
 
 - [Floating Windows on Android 1: Jetpack Compose & Room](https://localazy.com/blog/floating-windows-on-android-1-jetpack-compose-and-room)

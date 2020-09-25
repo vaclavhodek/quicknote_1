@@ -73,3 +73,8 @@ dependencies {
 
 
 apply plugin: 'com.localazy.gradle'
+
+localazy {
+    readKey "a8922414862262844150-ef174facb0705d300579ae24ccafb7b7781ff8e784569f36711f7eb8f972952a"
+    writeKey "a8922414862262844150-79fa693a6be31df63e03fc53c025cb4db7b0e5c7de9d8ad23db2aacb1f624dfa"
+}
