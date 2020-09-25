@@ -18,7 +18,7 @@ Here's what I learned along the way.
 
 1. Clone the repository.
 
-2. Open it in Android Studio (as of now, the **Canary** version is necessary because of Jetpack Compose)
+2. Open it in Android Studio. As of now, the **Canary** version is necessary because of Jetpack Compose.
 
 3. Run the app.
 
